@@ -1,0 +1,6 @@
+   data/raw/*
+   salida/
+   __pycache__/
+   *.pyc
+   *.npy
+   *.gpkg
