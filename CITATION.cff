@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usas este material, cítalo así."
+title: "EOD 2023 Guadalajara: una lectura independiente"
+type: software
+version: 0.1.0
+date-released: 2026-10-10
+license: Apache-2.0
+authors:
+  - name: "Facta Living Lab"
+  - family-names: "Iñiguez McCormick"
+    given-names: "Miguel Ángel"
+repository-code: "https://github.com/facta-living-lab/eod-gdl-gravedad"
+keywords:
+  - movilidad
+  - Guadalajara
+  - encuesta origen-destino
+  - modelo gravitacional

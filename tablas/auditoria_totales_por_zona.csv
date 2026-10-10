@@ -1,0 +1,31 @@
+lista,nombre_zona,valor_tablero,id_zona_en_base,existe_exacto
+origen,Las Águilas - Miramar,537239,24B,True
+origen,Centro Tlaquepaque,513979,07,True
+origen,Parque Solidaridad - Tetlán,497485,08,True
+origen,Huentitán,478964,05,True
+origen,Oblatos,452403,09,True
+origen,Santa Fe - Chulavista,451766,38,True
+origen,Miravalle,448820,06B,True
+origen,Centro Sur - Balcones de Santa María,428867,43,True
+origen,San Martín de las Flores - Las Huertas,375484,18,True
+origen,San Juan de Dios,359395,70A,True
+origen,Centro Tonalá,331116,42,True
+origen,Constitución - Auditorio,315510,68A,True
+origen,La Estancia - Chapalita,310865,21A,True
+origen,Expo - Chapalita,295107,21B,True
+destino,Centro Guadalajara,758298,70B,True
+destino,Centro Zapopan,577381,68B,True
+destino,Las Águilas - Miramar,539250,24B,True
+destino,Centro Tlaquepaque,508853,07,True
+destino,Parque Solidaridad - Tetlán,497665,08,True
+destino,Huentitán,478522,05,True
+destino,Santa Fe - Chulavista,456136,38,True
+destino,Oblatos,454300,09,True
+destino,Miravalle,453211,06B,True
+destino,Centro Sur - Balcones de Santa María,429191,43,True
+destino,San Martín de las Flores - Las Huertas,378106,18,True
+destino,San Juan de Dios,359220,70A,True
+destino,Centro Tonalá,332466,42,True
+destino,Constitución - Auditorio,315448,68A,True
+destino,La Estancia - Chapalita,308386,21A,True
+destino,Expo - Chapalita,294930,21B,True

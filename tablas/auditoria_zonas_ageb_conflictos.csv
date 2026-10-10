@@ -1,0 +1,173 @@
+clave_ageb,zona_encuesta,zona_tabla_censal,lado,registros,ponderados,tipo
+141200001066A,21A,21B,origen,587,55757,zona distinta
+141200001066A,21A,21B,destino,566,54075,zona distinta
+14097059A,02F,sin fila en la tabla,origen,918,52348,AGEB sin fila en la tabla censal
+14097059A,02F,sin fila en la tabla,destino,895,51457,AGEB sin fila en la tabla censal
+99999000A,Aeropuerto,37F,origen,407,23886,zona distinta
+99999000A,Aeropuerto,37F,destino,403,23644,zona distinta
+1412000014535,24B,23,destino,117,21644,zona distinta
+1412000014535,24B,23,origen,116,21185,zona distinta
+999990005,Acceso_Chapala,NA,origen,547,20133,zona NA (sin asignar) en la tabla censal
+999990005,Acceso_Chapala,NA,destino,539,19624,zona NA (sin asignar) en la tabla censal
+140440011,54,NA,origen,966,19604,zona NA (sin asignar) en la tabla censal
+140440011,54,NA,destino,963,19566,zona NA (sin asignar) en la tabla censal
+140980012,57,sin fila en la tabla,destino,296,17257,AGEB sin fila en la tabla censal
+140980012,57,sin fila en la tabla,origen,297,17188,AGEB sin fila en la tabla censal
+1412000010640,24B,21A,destino,104,16850,zona distinta
+1412000010640,24B,21A,origen,104,16792,zona distinta
+141200123,63F,sin fila en la tabla,origen,519,16790,AGEB sin fila en la tabla censal
+141200123,63F,sin fila en la tabla,destino,523,16696,AGEB sin fila en la tabla censal
+14070140A,52,29F,destino,352,16557,zona distinta
+14070140A,52,29F,origen,354,16422,zona distinta
+1412000013274,65B,68B,destino,159,16229,zona distinta
+1412000013274,65B,68B,origen,158,16216,zona distinta
+1412002314179,15,61,origen,493,15534,zona distinta
+141011963,40,sin fila en la tabla,destino,194,15531,AGEB sin fila en la tabla censal
+1412002314179,15,61,destino,491,15495,zona distinta
+141011963,40,sin fila en la tabla,origen,191,15243,AGEB sin fila en la tabla censal
+999990001,Acceso_Vallarta,NA,destino,192,14525,zona NA (sin asignar) en la tabla censal
+999990001,Acceso_Vallarta,NA,origen,187,14298,zona NA (sin asignar) en la tabla censal
+1403900011734,08,09,origen,65,13569,zona distinta
+1403900011734,08,09,destino,65,13569,zona distinta
+140970602,30,sin fila en la tabla,destino,159,13489,AGEB sin fila en la tabla censal
+1403900011715,07,09,origen,67,13451,zona distinta
+1403900011715,07,09,destino,67,13026,zona distinta
+140970602,30,sin fila en la tabla,origen,153,12978,AGEB sin fila en la tabla censal
+140972416,17,sin fila en la tabla,origen,262,11317,AGEB sin fila en la tabla censal
+1405100020196,49F,NA,origen,586,11163,zona NA (sin asignar) en la tabla censal
+1405100020196,49F,NA,destino,583,11108,zona NA (sin asignar) en la tabla censal
+140972416,17,sin fila en la tabla,destino,261,11064,AGEB sin fila en la tabla censal
+140972308,38,sin fila en la tabla,origen,100,10577,AGEB sin fila en la tabla censal
+1412000013166,21A,24B,origen,100,9890,zona distinta
+1412000013166,21A,24B,destino,99,9722,zona distinta
+1403900014584,21B,21A,origen,92,9442,zona distinta
+140972308,38,sin fila en la tabla,destino,97,9379,AGEB sin fila en la tabla censal
+1410100220113,42,NA,destino,66,9174,zona NA (sin asignar) en la tabla censal
+1403900014584,21B,21A,destino,92,9134,zona distinta
+1403900013321,21B,21A,destino,104,9091,zona distinta
+1410100220024,42,NA,origen,71,9078,zona NA (sin asignar) en la tabla censal
+1410100220024,42,NA,destino,71,9078,zona NA (sin asignar) en la tabla censal
+1410100220113,42,NA,origen,64,8886,zona NA (sin asignar) en la tabla censal
+1412000013170,21A,21B,destino,89,8824,zona distinta
+1403900013321,21B,21A,origen,100,8769,zona distinta
+1410100380132,42,NA,destino,63,8624,zona NA (sin asignar) en la tabla censal
+1412000013170,21A,21B,origen,87,8624,zona distinta
+141240090,03,NA,destino,885,8600,zona NA (sin asignar) en la tabla censal
+1409708312030,37F,38,origen,72,8589,zona distinta
+1410100380132,42,NA,origen,63,8562,zona NA (sin asignar) en la tabla censal
+141240090,03,NA,origen,883,8549,zona NA (sin asignar) en la tabla censal
+141200068,61,sin fila en la tabla,destino,98,8495,AGEB sin fila en la tabla censal
+141200068,61,sin fila en la tabla,origen,97,8354,AGEB sin fila en la tabla censal
+1407000140276,32,35,origen,238,8269,zona distinta
+1409708312030,37F,38,destino,71,8265,zona distinta
+1407000140276,32,35,destino,240,8171,zona distinta
+999990006,Acceso_López_Mateos,NA,destino,175,7811,zona NA (sin asignar) en la tabla censal
+140970104,12F,sin fila en la tabla,origen,360,7738,AGEB sin fila en la tabla censal
+999990006,Acceso_López_Mateos,NA,origen,172,7705,zona NA (sin asignar) en la tabla censal
+140970104,12F,sin fila en la tabla,destino,357,7633,AGEB sin fila en la tabla censal
+140701467,13,sin fila en la tabla,destino,283,7033,AGEB sin fila en la tabla censal
+140701467,13,sin fila en la tabla,origen,279,6931,AGEB sin fila en la tabla censal
+1405100020213,49F,NA,destino,380,6800,zona NA (sin asignar) en la tabla censal
+1405100020213,49F,NA,origen,378,6728,zona NA (sin asignar) en la tabla censal
+999990004,Acceso_Zapotlanejo,NA,origen,190,6663,zona NA (sin asignar) en la tabla censal
+999990004,Acceso_Zapotlanejo,NA,destino,184,6549,zona NA (sin asignar) en la tabla censal
+1404400100238,54,02F,destino,188,6417,zona distinta
+1404400100238,54,02F,origen,184,6348,zona distinta
+1412000011899,44,16,destino,66,6102,zona distinta
+1412000011899,44,16,origen,66,6102,zona distinta
+1403900015440,06B,43,origen,51,5744,zona distinta
+141012552,20,sin fila en la tabla,destino,106,5687,AGEB sin fila en la tabla censal
+141012552,20,sin fila en la tabla,origen,106,5595,AGEB sin fila en la tabla censal
+140440026,04,sin fila en la tabla,destino,461,5551,AGEB sin fila en la tabla censal
+140440026,04,sin fila en la tabla,origen,459,5523,AGEB sin fila en la tabla censal
+140980243,29F,sin fila en la tabla,destino,339,5392,AGEB sin fila en la tabla censal
+140970123,51F,sin fila en la tabla,destino,440,5377,AGEB sin fila en la tabla censal
+140970123,51F,sin fila en la tabla,origen,441,5371,AGEB sin fila en la tabla censal
+1403900015440,06B,43,destino,49,5275,zona distinta
+140980243,29F,sin fila en la tabla,origen,333,5192,AGEB sin fila en la tabla censal
+140973679,11F,sin fila en la tabla,destino,172,5022,AGEB sin fila en la tabla censal
+1412000016724,26,61,destino,142,4983,zona distinta
+140973679,11F,sin fila en la tabla,origen,172,4978,AGEB sin fila en la tabla censal
+1412000016724,26,61,origen,142,4898,zona distinta
+140970015,12F,sin fila en la tabla,origen,212,4712,AGEB sin fila en la tabla censal
+140970015,12F,sin fila en la tabla,destino,211,4654,AGEB sin fila en la tabla censal
+1405100020209,49F,NA,origen,223,4308,zona NA (sin asignar) en la tabla censal
+1405100020209,49F,NA,destino,223,4298,zona NA (sin asignar) en la tabla censal
+1405100020181,49F,NA,destino,213,3972,zona NA (sin asignar) en la tabla censal
+1405100020181,49F,NA,origen,210,3912,zona NA (sin asignar) en la tabla censal
+141012567,45,sin fila en la tabla,origen,134,3758,AGEB sin fila en la tabla censal
+141012567,45,sin fila en la tabla,destino,133,3603,AGEB sin fila en la tabla censal
+141240029,48F,sin fila en la tabla,destino,935,3354,AGEB sin fila en la tabla censal
+141240029,48F,sin fila en la tabla,origen,938,3315,AGEB sin fila en la tabla censal
+141200157,65A,sin fila en la tabla,destino,136,2745,AGEB sin fila en la tabla censal
+141200157,65A,sin fila en la tabla,origen,134,2704,AGEB sin fila en la tabla censal
+140510016,60,sin fila en la tabla,destino,83,2539,AGEB sin fila en la tabla censal
+141240033,48F,sin fila en la tabla,destino,529,2520,AGEB sin fila en la tabla censal
+140510016,60,sin fila en la tabla,origen,84,2506,AGEB sin fila en la tabla censal
+141240033,48F,sin fila en la tabla,origen,525,2504,AGEB sin fila en la tabla censal
+141200001664A,16,NA,origen,75,2433,zona NA (sin asignar) en la tabla censal
+141200001664A,16,NA,destino,74,2427,zona NA (sin asignar) en la tabla censal
+141200034,46F,sin fila en la tabla,destino,38,2015,AGEB sin fila en la tabla censal
+141200034,46F,sin fila en la tabla,origen,38,2014,AGEB sin fila en la tabla censal
+1403900015633,05,09,origen,14,1972,zona distinta
+1403900011698,07,09,destino,10,1849,zona distinta
+1403900011698,07,09,origen,10,1746,zona distinta
+1403900015633,05,09,destino,13,1739,zona distinta
+141200087,44,sin fila en la tabla,origen,63,1690,AGEB sin fila en la tabla censal
+141200087,44,sin fila en la tabla,destino,62,1686,AGEB sin fila en la tabla censal
+999990003,Acceso_Saltillo,NA,origen,44,1545,zona NA (sin asignar) en la tabla censal
+1410100010448,18,20,destino,44,1520,zona distinta
+1410100010448,18,20,origen,45,1505,zona distinta
+999990003,Acceso_Saltillo,NA,destino,42,1498,zona NA (sin asignar) en la tabla censal
+1409800012983,57,34,destino,62,1297,zona distinta
+1409800012983,57,34,origen,60,1270,zona distinta
+1403900015031,07,08,destino,12,1136,zona distinta
+141240048,03,sin fila en la tabla,origen,35,1129,AGEB sin fila en la tabla censal
+141240048,03,sin fila en la tabla,destino,35,1129,AGEB sin fila en la tabla censal
+1409800012343,24B,21B,destino,11,1068,zona distinta
+1403900015031,07,08,origen,12,1033,zona distinta
+1409800012343,24B,21B,origen,11,1017,zona distinta
+140390001382A,05,70A,origen,4,1007,zona distinta
+140971066,12F,sin fila en la tabla,destino,12,798,AGEB sin fila en la tabla censal
+140971066,12F,sin fila en la tabla,origen,12,798,AGEB sin fila en la tabla censal
+1410100380166,42,NA,origen,19,795,zona NA (sin asignar) en la tabla censal
+1410100380166,42,NA,destino,19,794,zona NA (sin asignar) en la tabla censal
+140390001382A,05,70A,destino,4,789,zona distinta
+1410100220081,42,NA,origen,6,740,zona NA (sin asignar) en la tabla censal
+1410100220081,42,NA,destino,6,740,zona NA (sin asignar) en la tabla censal
+141200104,15,sin fila en la tabla,destino,26,680,AGEB sin fila en la tabla censal
+141200091,14F,sin fila en la tabla,destino,8,659,AGEB sin fila en la tabla censal
+141200091,14F,sin fila en la tabla,origen,8,659,AGEB sin fila en la tabla censal
+141200104,15,sin fila en la tabla,origen,24,648,AGEB sin fila en la tabla censal
+1412004306936,61,46F,origen,11,639,zona distinta
+1412004306936,61,46F,destino,11,639,zona distinta
+1407000010384,60,29F,origen,14,547,zona distinta
+999990002,Acceso_Colotlán,NA,destino,12,540,zona NA (sin asignar) en la tabla censal
+999990002,Acceso_Colotlán,NA,origen,12,540,zona NA (sin asignar) en la tabla censal
+1407000010384,60,29F,destino,14,519,zona distinta
+141203908,44,sin fila en la tabla,origen,2,313,AGEB sin fila en la tabla censal
+141203908,44,sin fila en la tabla,destino,2,313,AGEB sin fila en la tabla censal
+1412000017205,44,63F,origen,4,184,zona distinta
+1412000017205,44,63F,destino,4,184,zona distinta
+1407000011062,29F,60,destino,3,177,zona distinta
+1407000011062,29F,60,origen,3,177,zona distinta
+141240014,48F,NA,origen,32,157,zona NA (sin asignar) en la tabla censal
+141240014,48F,NA,destino,32,156,zona NA (sin asignar) en la tabla censal
+140980188,06B,sin fila en la tabla,destino,4,156,AGEB sin fila en la tabla censal
+140973541,30,sin fila en la tabla,destino,4,148,AGEB sin fila en la tabla censal
+140973541,30,sin fila en la tabla,origen,4,148,AGEB sin fila en la tabla censal
+140980188,06B,sin fila en la tabla,origen,3,141,AGEB sin fila en la tabla censal
+140701170,29F,sin fila en la tabla,destino,1,137,AGEB sin fila en la tabla censal
+140701170,29F,sin fila en la tabla,origen,1,137,AGEB sin fila en la tabla censal
+141240103,03,sin fila en la tabla,origen,7,89,AGEB sin fila en la tabla censal
+141240103,03,sin fila en la tabla,destino,7,89,AGEB sin fila en la tabla censal
+141240086,03,48F,origen,3,73,zona distinta
+14120059A,25,sin fila en la tabla,destino,2,64,AGEB sin fila en la tabla censal
+14120059A,25,sin fila en la tabla,origen,2,64,AGEB sin fila en la tabla censal
+140701166,32,sin fila en la tabla,destino,1,59,AGEB sin fila en la tabla censal
+140701166,32,sin fila en la tabla,origen,1,59,AGEB sin fila en la tabla censal
+141240086,03,48F,destino,3,58,zona distinta
+140510035,10,sin fila en la tabla,destino,9,53,AGEB sin fila en la tabla censal
+140510035,10,sin fila en la tabla,origen,9,53,AGEB sin fila en la tabla censal
+1410100380128,42,NA,destino,1,2,zona NA (sin asignar) en la tabla censal
+1410100380128,42,NA,origen,1,2,zona NA (sin asignar) en la tabla censal

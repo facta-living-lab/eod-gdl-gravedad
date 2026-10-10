@@ -1,0 +1,13 @@
+EOD 2023 Guadalajara: una lectura independiente
+Copyright 2026 Facta Living Lab (Facta Terrae)
+
+Alcance de la titularidad y de las licencias
+- Codigo fuente (carpeta src/): licencia Apache-2.0 (ver LICENSE).
+- Tablas derivadas, mapas, figuras y texto (carpetas tablas/ y mapas/, README.md y data/README.md): licencia CC BY 4.0 (ver LICENSE-CC-BY-4.0.txt).
+- Nombre, logotipo y marcas "Facta Living Lab" y "Facta Terrae" (incluida la carpeta assets/): no estan cubiertos por ninguna licencia abierta. Todos los derechos reservados.
+
+Datos de terceros
+- La Encuesta Origen-Destino 2023 es producto de IMEPLAN. La zonificacion, las microzonas y la relacion AGEB-zona provienen de IMEPLAN, INEGI y/o del Centro Futuro Ciudades.
+- Estos datos NO se incluyen en este repositorio y NO estan cubiertos por las licencias de arriba. Su uso se rige por las condiciones de sus titulares.
+
+Sin garantia: el software y las tablas se entregan "tal cual", sin garantias de ningun tipo. Una inconsistencia senalada en la auditoria no constituye prueba de intencion.

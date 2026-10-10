@@ -1,0 +1,4 @@
+indicador,valor
+transiciones evaluadas,101904.0
+rupturas (origen siguiente != destino previo),178.0
+rupturas (%),0.17
